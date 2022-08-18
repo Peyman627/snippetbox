@@ -1,4 +1,4 @@
-module snippetbox
+module github.com/Peyman627/snippetbox
 
 go 1.18
 
